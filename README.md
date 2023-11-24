@@ -1,2 +1,2 @@
 # anarkia
-App para navegar seguro
+App para navegar seguro y sin limites
